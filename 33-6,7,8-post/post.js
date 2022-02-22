@@ -52,3 +52,8 @@ function displayPosts(posts){
    //33-8 Debug API, Network tab,Status code, headers, bad API
     //debug going network tab, load the file, find the Api file, go to the "header tab" . here you can check "status code" and other factors.
     //you can go to preview tab to see the file also can see the response tab to get more info.
+
+    //33-9
+    //homeWork
+    //bring comments
+    //bring photos
